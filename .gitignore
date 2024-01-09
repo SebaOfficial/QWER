@@ -1,18 +1,31 @@
-.DS_Store
-node_modules
+# Node Dependencies
+node_modules/
 /build
 /.svelte-kit
 /package
+
+# Environment variables
 .env
 .env.*
 !.env.example
+
+# Vercel
 .vercel
 .vercel_build_ouput
-__unconfig_vite.config.js
+
+# QWER-generated files
 /static
 /src/generated
-.husky
-.tool-versions
+/src/routes/*/+page.svelte
 /src/i18n/i18n-*
+
+# Husky
+.husky/
+
 # Local Netlify folder
-.netlify
+.netlify/
+
+# Other
+.DS_Store
+__unconfig_vite.config.js
+.tool-versions
