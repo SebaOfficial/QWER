@@ -26,7 +26,8 @@ jobs:
         run: pnpm build
 
       - name: Create CNAME file
-        run: echo "qwer.racca.me" > ./build/CNAME # Change with your actual CNAME or remove it
+        if: github.repository == 'SebaOfficial/QWER'
+        run: echo "qwer.racca.me" > ./build/CNAME
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
