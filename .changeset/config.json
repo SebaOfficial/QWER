@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.1.1/schema.json",
-  "changelog": ["@changesets/cli/changelog", { "repo": "kwchang0831/svelte-QWER" }],
+  "changelog": ["@changesets/cli/changelog", { "repo": "SebaOfficial/QWER" }],
   "commit": false,
   "fixed": [],
   "linked": [],
