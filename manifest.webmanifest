@@ -1,0 +1,67 @@
+{
+  "name": "QWER",
+  "short_name": "QWER",
+  "lang": "en",
+  "description": "🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤",
+  "id": "https://svelte-qwer.vercel.app",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "categories": [
+    "education",
+    "blog"
+  ],
+  "background_color": "white",
+  "theme_color": "white",
+  "icons": [
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.a241e23c.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.a241e23c.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.f73e53d4.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.f73e53d4.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.2f35c48e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.2f35c48e.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.cba3f947.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://svelte-qwer.vercel.app/_app/immutable/assets/avatar.cba3f947.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "Creidts": {
+    "generator": {
+      "name": "QWER",
+      "author": "kwchang0831",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kwchang0831/svelte-qwer.git"
+      }
+    }
+  },
+  "siteConfig": {
+    "url": "https://svelte-qwer.vercel.app",
+    "title": "QWER",
+    "subtitle": "🚀 QWER - Built using Svelte with ❤",
+    "description": "🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤",
+    "lang": "en",
+    "timeZone": "Asia/Taipei",
+    "since": 2022,
+    "cover": "/_app/immutable/assets/qwer.77ae3ceb.webp",
+    "author": {
+      "name": "John Doe",
+      "status": "🚀",
+      "statusTip": "<a href=\"https://github.com/kwchang0831/svelte-QWER\" rel=\"external\" style=\"color:#0F0\" onMouseOver=\"this.style.color='#0FF'\" onMouseOut=\"this.style.color='#0F0'\" >QWER</a> is Awesome !",
+      "avatar": "/_app/immutable/assets/avatar.c4879091.png",
+      "avatar_128": [
+        "/_app/immutable/assets/avatar.adf64caa.avif",
+        "/_app/immutable/assets/avatar.d9375b86.webp"
+      ],
+      "avatar_48_png": "/_app/immutable/assets/avatar.a241e23c.png",
+      "avatar_96_png": "/_app/immutable/assets/avatar.f73e53d4.png",
+      "avatar_192_png": "/_app/immutable/assets/avatar.2f35c48e.png",
+      "avatar_512_png": "/_app/immutable/assets/avatar.cba3f947.png",
+      "website": "https://github.com/kwchang0831/svelte-QWER",
+      "github": "https://github.com/kwchang0831",
+      "email": "contact@kwchang0831.dev",
+      "bio": "Peace begins <br/> With a smile"
+    }
+  },
+  "headConfig": {
+    "me": [
+      "https://github.com/kwchang0831"
+    ]
+  },
+  "svelte-QWER": {
+    "name": "@kwchang0831/svelte-qwer",
+    "version": "0.12.0",
+    "author": "kwchang0831",
+    "homepage": "https://github.com/kwchang0831/svelte-qwer",
+    "deps": {
+      "@builder.io/partytown": "^0.8.1",
+      "@changesets/cli": "^2.26.2",
+      "@iconify-json/akar-icons": "^1.1.20",
+      "@iconify-json/bxs": "^1.1.7",
+      "@iconify-json/carbon": "^1.1.21",
+      "@iconify-json/fluent-emoji-flat": "^1.1.13",
+      "@iconify-json/ic": "^1.1.14",
+      "@iconify-json/line-md": "^1.1.33",
+      "@iconify-json/mdi": "^1.1.55",
+      "@iconify-json/tabler": "^1.1.96",
+      "@iconify-json/vscode-icons": "^1.1.29",
+      "@kwchang0831/qwer": "link:QWER",
+      "@kwchang0831/svelte-qwer": "link:",
+      "@sveltejs/adapter-cloudflare": "^2.3.3",
+      "@sveltejs/adapter-netlify": "2.0.8",
+      "@sveltejs/adapter-node": "1.3.1",
+      "@sveltejs/adapter-static": "2.0.3",
+      "@sveltejs/adapter-vercel": "3.0.3",
+      "@sveltejs/kit": "1.27.3",
+      "@types/flexsearch": "^0.7.5",
+      "@types/nprogress": "^0.2.2",
+      "@typescript-eslint/eslint-plugin": "^6.9.1",
+      "@typescript-eslint/parser": "^6.9.1",
+      "@unocss/core": "^0.57.2",
+      "@unocss/extractor-svelte": "^0.57.2",
+      "@unocss/preset-icons": "^0.57.2",
+      "@unocss/preset-uno": "^0.57.2",
+      "@unocss/reset": "^0.57.2",
+      "@unocss/transformer-compile-class": "^0.57.2",
+      "@unocss/transformer-directives": "^0.57.2",
+      "@unocss/transformer-variant-group": "^0.57.2",
+      "cross-env": "^7.0.3",
+      "eslint": "^8.53.0",
+      "eslint-config-prettier": "^9.0.0",
+      "eslint-plugin-prettier": "^5.0.1",
+      "eslint-plugin-svelte": "^2.34.1",
+      "flexsearch": "^0.7.31",
+      "gitmoji-cli": "^8.5.0",
+      "husky": "^8.0.3",
+      "imagetools-core": "^5.1.1",
+      "katex": "^0.16.9",
+      "lint-staged": "^15.0.2",
+      "lz-string": "^1.5.0",
+      "medium-zoom": "^1.0.8",
+      "npm-run-all": "^4.1.5",
+      "nprogress": "^0.2.0",
+      "prettier": "^3.0.3",
+      "prettier-plugin-svelte": "^3.0.3",
+      "rimraf": "^5.0.5",
+      "sass": "^1.69.5",
+      "sharp": "^0.32.6",
+      "svelte": "^4.2.2",
+      "svelte-check": "^3.5.2",
+      "svelte-preprocess": "^5.0.4",
+      "tippy.js": "^6.3.7",
+      "tslib": "^2.6.2",
+      "typesafe-i18n": "^5.26.2",
+      "typescript": "^5.2.2",
+      "unocss": "^0.57.2",
+      "unocss-preset-scrollbar": "^0.3.0",
+      "vite": "^4.5.0",
+      "vite-imagetools": "^6.2.3"
+    }
+  },
+  "QWER": {
+    "name": "@kwchang0831/qwer",
+    "version": "0.7.0",
+    "author": "kwchang0831",
+    "homepage": "https://github.com/kwchang0831/svelte-qwer",
+    "deps": {
+      "chalk": "^5.3.0",
+      "chokidar": "^3.5.3",
+      "fs-extra": "^11.1.1",
+      "gray-matter": "^4.0.3",
+      "html-to-text": "^9.0.5",
+      "katex": "^0.16.9",
+      "limax": "^4.1.0",
+      "lz-string": "^1.5.0",
+      "marked": "^9.1.5",
+      "marked-gfm-heading-id": "^3.1.0",
+      "marked-mangle": "^1.1.4",
+      "prism-svelte": "^0.5.0",
+      "prismjs": "^1.29.0",
+      "probe-image-size": "^7.2.3",
+      "to-vfile": "^8.0.0"
+    }
+  }
+}
