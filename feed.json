@@ -1,15 +1,15 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
   "title": "QWER",
-  "home_page_url": "https://svelte-qwer.vercel.app",
-  "feed_url": "https://svelte-qwer.vercel.app/feed.json",
+  "home_page_url": "https://qwer.racca.me",
+  "feed_url": "https://qwer.racca.me/feed.json",
   "description": "🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤",
   "icon": "/_app/immutable/assets/avatar.c4879091.png",
-  "favicon": "https://svelte-qwer.vercel.app/favicon.png",
+  "favicon": "https://qwer.racca.me/favicon.png",
   "authors": [
     {
       "name": "John Doe",
-      "url": "https://github.com/kwchang0831",
+      "url": "https://github.com/SebaOfficial",
       "avatar": "/_app/immutable/assets/avatar.c4879091.png"
     }
   ],
@@ -17,7 +17,7 @@
   "items": [
     {
       "id": "hello-QWER",
-      "url": "https://svelte-qwer.vercel.app/hello-QWER",
+      "url": "https://qwer.racca.me/hello-QWER",
       "title": "Hello QWER 👋",
       "summary": "🎉 Let's start a brand new awesome blog...",
       "image": "/hello-QWER/cover.jpg",
@@ -34,7 +34,7 @@
     },
     {
       "id": "example",
-      "url": "https://svelte-qwer.vercel.app/example",
+      "url": "https://qwer.racca.me/example",
       "title": "Example Post",
       "summary": "📝 Showcase basic syntax of Markdown and HTML",
       "image": "/example/cover.jpg",
@@ -50,7 +50,7 @@
     },
     {
       "id": "quick-start",
-      "url": "https://svelte-qwer.vercel.app/quick-start",
+      "url": "https://qwer.racca.me/quick-start",
       "title": "Quick Start",
       "summary": "✨ Just a QuickStart guide",
       "image": "/quick-start/cover.jpg",

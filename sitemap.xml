@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-      <loc>https://svelte-qwer.vercel.app</loc>
+      <loc>https://qwer.racca.me</loc>
       <changefreq>weekly</changefreq>
       <priority>0.7</priority>
     </url>
     
         <url>
-        <loc>https://svelte-qwer.vercel.app/hello-QWER</loc>
+        <loc>https://qwer.racca.me/hello-QWER</loc>
         <lastmod>2024-01-10T14:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         </url>
       
         <url>
-        <loc>https://svelte-qwer.vercel.app/about</loc>
+        <loc>https://qwer.racca.me/about</loc>
         <lastmod>2024-01-10T14:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         </url>
       
         <url>
-        <loc>https://svelte-qwer.vercel.app/example</loc>
+        <loc>https://qwer.racca.me/example</loc>
         <lastmod>2024-01-10T14:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         </url>
       
         <url>
-        <loc>https://svelte-qwer.vercel.app/quick-start</loc>
+        <loc>https://qwer.racca.me/quick-start</loc>
         <lastmod>2024-01-10T14:00:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>

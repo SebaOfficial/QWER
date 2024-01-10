@@ -11,18 +11,18 @@
     }
   },
   "siteConfig": {
-    "url": "https://svelte-qwer.vercel.app",
+    "url": "https://qwer.racca.me",
     "title": "QWER",
     "subtitle": "🚀 QWER - Built using Svelte with ❤",
     "description": "🚀 QWER - Awesome Blog Starter, Built using Svelte with ❤",
     "lang": "en",
-    "timeZone": "Asia/Taipei",
+    "timeZone": "Europe/Rome",
     "since": 2022,
     "cover": "/_app/immutable/assets/qwer.77ae3ceb.webp",
     "author": {
       "name": "John Doe",
       "status": "🚀",
-      "statusTip": "<a href=\"https://github.com/kwchang0831/svelte-QWER\" rel=\"external\" style=\"color:#0F0\" onMouseOver=\"this.style.color='#0FF'\" onMouseOut=\"this.style.color='#0F0'\" >QWER</a> is Awesome !",
+      "statusTip": "<a href=\"https://github.com/SebaOfficial/QWER\" rel=\"external\" style=\"color:#0F0\" onMouseOver=\"this.style.color='#0FF'\" onMouseOut=\"this.style.color='#0F0'\" >QWER</a> is Awesome !",
       "avatar": "/_app/immutable/assets/avatar.c4879091.png",
       "avatar_128": [
         "/_app/immutable/assets/avatar.adf64caa.avif",
@@ -32,20 +32,20 @@
       "avatar_96_png": "/_app/immutable/assets/avatar.f73e53d4.png",
       "avatar_192_png": "/_app/immutable/assets/avatar.2f35c48e.png",
       "avatar_512_png": "/_app/immutable/assets/avatar.cba3f947.png",
-      "website": "https://github.com/kwchang0831/svelte-QWER",
-      "github": "https://github.com/kwchang0831",
-      "email": "contact@kwchang0831.dev",
+      "website": "https://github.com/SebaOfficial/QWER",
+      "github": "https://github.com/SebaOfficial",
+      "email": "sebastiano@racca.me",
       "bio": "Peace begins <br/> With a smile"
     }
   },
   "headConfig": {
     "me": [
-      "https://github.com/kwchang0831"
+      "https://github.com/SebaOfficial"
     ]
   },
   "svelte-QWER": {
     "name": "@sebaofficial/qwer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Sebastiano Racca",
     "homepage": "https://github.com/SebaOfficial/QWER",
     "deps": {

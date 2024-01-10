@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<id>https://svelte-qwer.vercel.app</id>
+<id>https://qwer.racca.me</id>
 <title><![CDATA[QWER]]></title>
 <subtitle>
 <![CDATA[🚀 QWER - Built using Svelte with ❤]]>
 </subtitle>
-<icon>https://svelte-qwer.vercel.app/favicon.png</icon>
-<link href="https://svelte-qwer.vercel.app"/>
-<link href="https://svelte-qwer.vercel.app/atom.xml" rel="self" type="application/atom+xml"/>
-<updated>2024-01-10T12:27:06.314Z</updated>
+<icon>https://qwer.racca.me/favicon.png</icon>
+<link href="https://qwer.racca.me"/>
+<link href="https://qwer.racca.me/atom.xml" rel="self" type="application/atom+xml"/>
+<updated>2024-01-10T12:33:27.823Z</updated>
 <author>
   <name><![CDATA[John Doe]]></name>
 </author>
-<category term="Year-2022" scheme="https://svelte-qwer.vercel.app/?tags=tags-Year=2022" />
-<category term="Language-English" scheme="https://svelte-qwer.vercel.app/?tags=tags-Language=English" />
-<category term="Markdown" scheme="https://svelte-qwer.vercel.app/?tags=Markdown" />
-<category term="Hello World" scheme="https://svelte-qwer.vercel.app/?tags=Hello%20World" />
-<category term="QWER" scheme="https://svelte-qwer.vercel.app/?tags=QWER" />
+<category term="Year-2022" scheme="https://qwer.racca.me/?tags=tags-Year=2022" />
+<category term="Language-English" scheme="https://qwer.racca.me/?tags=tags-Language=English" />
+<category term="Markdown" scheme="https://qwer.racca.me/?tags=Markdown" />
+<category term="Hello World" scheme="https://qwer.racca.me/?tags=Hello%20World" />
+<category term="QWER" scheme="https://qwer.racca.me/?tags=QWER" />
 <entry>
     <title type="html"><![CDATA[Hello QWER 👋]]></title>
     <author><name><![CDATA[John Doe]]></name></author>
-    <link href="https://svelte-qwer.vercel.app/hello-QWER" />
-    <id>https://svelte-qwer.vercel.app/hello-QWER</id>
+    <link href="https://qwer.racca.me/hello-QWER" />
+    <id>https://qwer.racca.me/hello-QWER</id>
     <published>2022-09-16T14:00:00.000Z</published>
     <updated>2024-01-10T14:00:00.000Z</updated>
     <summary type="html"><![CDATA[🎉 Let's start a brand new awesome blog...]]></summary>
@@ -127,16 +127,16 @@ Photo by <a href="https://unsplash.com/@marcojodoin">Marc-Olivier Jodoin</a> on 
 Photo by <a href="https://unsplash.com/@armgd">Nicolas Gras</a> on <a href="https://unsplash.com/s/photos/bokeh">Unsplash</a>
 </ImgZoom>
 ]]></content>
-    <category term="Hello World" scheme="https://svelte-qwer.vercel.app/?tags=Hello%20World" />
-<category term="QWER" scheme="https://svelte-qwer.vercel.app/?tags=QWER" />
-<category term="Year-2022" scheme="https://svelte-qwer.vercel.app/?Year=2022" />
-<category term="Language-English" scheme="https://svelte-qwer.vercel.app/?Language=English" />
+    <category term="Hello World" scheme="https://qwer.racca.me/?tags=Hello%20World" />
+<category term="QWER" scheme="https://qwer.racca.me/?tags=QWER" />
+<category term="Year-2022" scheme="https://qwer.racca.me/?Year=2022" />
+<category term="Language-English" scheme="https://qwer.racca.me/?Language=English" />
     </entry>
 <entry>
     <title type="html"><![CDATA[About QWER]]></title>
     <author><name><![CDATA[John Doe]]></name></author>
-    <link href="https://svelte-qwer.vercel.app/about" />
-    <id>https://svelte-qwer.vercel.app/about</id>
+    <link href="https://qwer.racca.me/about" />
+    <id>https://qwer.racca.me/about</id>
     <published>2022-08-19T16:00:00.000Z</published>
     <updated>2024-01-10T14:00:00.000Z</updated>
     <summary type="html"><![CDATA[undefined]]></summary>
@@ -197,14 +197,14 @@ To see who else is using QWER, please check <a href="https://github.com/topics/s
 <h2 id="license"><a href="#license">⚖️ License</a></h2>
 <p>This project is under the <a href="https://github.com/SebaOfficial/QWER/blob/main/LICENSE" rel="external" >MIT License</a>.</p>
 ]]></content>
-    <category term="Year-2022" scheme="https://svelte-qwer.vercel.app/?Year=2022" />
-<category term="Language-English" scheme="https://svelte-qwer.vercel.app/?Language=English" />
+    <category term="Year-2022" scheme="https://qwer.racca.me/?Year=2022" />
+<category term="Language-English" scheme="https://qwer.racca.me/?Language=English" />
     </entry>
 <entry>
     <title type="html"><![CDATA[Example Post]]></title>
     <author><name><![CDATA[John Doe]]></name></author>
-    <link href="https://svelte-qwer.vercel.app/example" />
-    <id>https://svelte-qwer.vercel.app/example</id>
+    <link href="https://qwer.racca.me/example" />
+    <id>https://qwer.racca.me/example</id>
     <published>2022-08-08T16:00:00.000Z</published>
     <updated>2024-01-10T14:00:00.000Z</updated>
     <summary type="html"><![CDATA[📝 Showcase basic syntax of Markdown and HTML]]></summary>
@@ -366,15 +366,15 @@ return `<span style="color: goldenrod">Not me.</span>`
 <a href="#fnref:bignote">↩</a></li>
   </ol>
   ]]></content>
-    <category term="Markdown" scheme="https://svelte-qwer.vercel.app/?tags=Markdown" />
-<category term="Year-2022" scheme="https://svelte-qwer.vercel.app/?Year=2022" />
-<category term="Language-English" scheme="https://svelte-qwer.vercel.app/?Language=English" />
+    <category term="Markdown" scheme="https://qwer.racca.me/?tags=Markdown" />
+<category term="Year-2022" scheme="https://qwer.racca.me/?Year=2022" />
+<category term="Language-English" scheme="https://qwer.racca.me/?Language=English" />
     </entry>
 <entry>
     <title type="html"><![CDATA[Quick Start]]></title>
     <author><name><![CDATA[John Doe]]></name></author>
-    <link href="https://svelte-qwer.vercel.app/quick-start" />
-    <id>https://svelte-qwer.vercel.app/quick-start</id>
+    <link href="https://qwer.racca.me/quick-start" />
+    <id>https://qwer.racca.me/quick-start</id>
     <published>2022-08-07T16:00:00.000Z</published>
     <updated>2024-01-10T14:00:00.000Z</updated>
     <summary type="html"><![CDATA[✨ Just a QuickStart guide]]></summary>
@@ -414,8 +414,8 @@ return `<span style="color: goldenrod">Not me.</span>`
 <p>Here is our Documentation: <a href="https://qwer.racca.me/docs" rel="external" >https://qwer.racca.me/docs</a>.</p>
 <h2 id="end"><a href="#end">👍 END</a></h2>
 ]]></content>
-    <category term="QWER" scheme="https://svelte-qwer.vercel.app/?tags=QWER" />
-<category term="Year-2022" scheme="https://svelte-qwer.vercel.app/?Year=2022" />
-<category term="Language-English" scheme="https://svelte-qwer.vercel.app/?Language=English" />
+    <category term="QWER" scheme="https://qwer.racca.me/?tags=QWER" />
+<category term="Year-2022" scheme="https://qwer.racca.me/?Year=2022" />
+<category term="Language-English" scheme="https://qwer.racca.me/?Language=English" />
     </entry>
 </feed>
