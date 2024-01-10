@@ -62,7 +62,7 @@ npx degit sebaofficial/QWER my-blog
 
 # ✨ Features
 
-- ⚡ Super fast site performance. Near **Perfect** [PageSpeed](https://pagespeed.web.dev/) score.
+- ⚡ Super fast site performance. Near **Perfect** [PageSpeed](https://pagespeed.web.dev/analysis/https-qwer-racca-me/qfulgzadk5?form_factor=desktop) score.
 
 - 🤗 SEO ready with meta, [Open Graph](https://ogp.me/), [Schema](https://schema.org/), [JSON-LD](https://json-ld.org/), [microformats2](https://indieweb.org/microformats2).
 
