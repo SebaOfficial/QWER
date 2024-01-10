@@ -1,17 +1,14 @@
 {
-  "name": "@kwchang0831/svelte-qwer",
-  "version": "0.12.0",
+  "name": "@sebaofficial/qwer",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
-  "homepage": "https://github.com/kwchang0831/svelte-qwer",
+  "homepage": "https://github.com/SebaOfficial/QWER",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kwchang0831/svelte-qwer.git"
+    "url": "git+https://github.com/SebaOfficial/QWER.git"
   },
-  "bugs": {
-    "url": "https://github.com/kwchang0831/svelte-qwer/issues"
-  },
-  "author": "kwchang0831",
+  "author": "Sebastiano Racca",
   "workspaces": [
     "./",
     "./QWER"
