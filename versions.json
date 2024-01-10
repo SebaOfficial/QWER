@@ -44,10 +44,10 @@
     ]
   },
   "svelte-QWER": {
-    "name": "@kwchang0831/svelte-qwer",
-    "version": "0.12.0",
-    "author": "kwchang0831",
-    "homepage": "https://github.com/kwchang0831/svelte-qwer",
+    "name": "@sebaofficial/qwer",
+    "version": "1.0.0",
+    "author": "Sebastiano Racca",
+    "homepage": "https://github.com/SebaOfficial/QWER",
     "deps": {
       "@builder.io/partytown": "^0.8.1",
       "@changesets/cli": "^2.26.2",
