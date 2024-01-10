@@ -4,9 +4,8 @@ description: Start using QWER - Simply Awesome Blog Starter. Built using SvelteK
 summary: 🎉 Let's start a brand new awesome blog...
 published: '2022-09-16T22:00:00.000+08:00'
 updated: '2024-01-10T15:00:00.000+01:00'
-cover: ./cover.jpg
+cover: https://source.unsplash.com/collection/94734566/1920x1080
 coverStyle: 'TOP'
-coverCaption: Photo by <a href="https://unsplash.com/@nitishm">Nitish Meena</a> on <a href="https://unsplash.com/s/photos/blur">Unsplash</a>
 tags:
   - ['Hello World', QWER]
 ---
