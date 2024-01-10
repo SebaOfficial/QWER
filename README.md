@@ -34,13 +34,16 @@ Simply Awesome <b>Blog Starter</b> built in <b>SvelteKit</b>
 </p>
 
 # 🛠 Installation
+
 You can install QWER with `npx`:
+
 ```bash
 npx degit sebaofficial/QWER my-blog
 ```
 
 # ❔ Usage
-1. Get [npm](https://nodejs.org/en/blog/release/) *v18 or higher*;
+
+1. Get [npm](https://nodejs.org/en/blog/release/) _v18 or higher_;
 2. Get [npm](https://github.com/pnpm/pnpm):
    ```bash
    npm i -g pnpm
@@ -95,11 +98,14 @@ npx degit sebaofficial/QWER my-blog
 - 🚀 Deploy the blog **Free** on [Vercel](https://vercel.com/), [Netlify](https://Netlify.com/), [Cloudflare Pages](https://pages.cloudflare.com/) or [GitHub Pages](https://pages.github.com).
 
 # 😊 Are you using QWER?
+
 Please consider adding `svelte-qwer` topic to your repository.
 To see who else is using QWER, please check [Github-Topics: svelte-qwer](https://github.com/topics/svelte-qwer).
 
 # 🙏 Credits
+
 - This is a fork of [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER) with some improvements, if you're using this repository consider giving a start to [kwchang0831/svelte-QWER](https://github.com/kwchang0831/svelte-QWER).
 
 # ⚖️ License
+
 This project is under the [MIT License](https://github.com/SebaOfficial/QWER/blob/main/LICENSE).
