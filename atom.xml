@@ -8,7 +8,7 @@
 <icon>https://qwer.racca.me/favicon.png</icon>
 <link href="https://qwer.racca.me"/>
 <link href="https://qwer.racca.me/atom.xml" rel="self" type="application/atom+xml"/>
-<updated>2024-01-10T12:42:19.459Z</updated>
+<updated>2024-01-11T09:28:32.548Z</updated>
 <author>
   <name><![CDATA[John Doe]]></name>
 </author>
@@ -185,7 +185,7 @@ Photo by <a href="https://unsplash.com/@armgd">Nicolas Gras</a> on <a href="http
 <p>You can install QWER with <code class="inline-code-block">npx</code>:</p>
 <div class="code-block  "><CodeCopy><pre><code class="language-bash">{@html String.raw`<div class="code-line"><div class="code-linenotation"><span class="no-line-number"></span><span class="no-line-diff"></span></div><div class="code-content">npx degit sebaofficial/QWER my-blog</div></div>`}</code></pre></CodeCopy></div>
 <blockquote>
-<p>Full documentation can be found <a href="https://qwer.racca.me/docs" rel="external" >here</a>.</p>
+<p>Full documentation can be found <a href="https://docs-svelte-qwer.vercel.app" rel="external" >here</a>.</p>
 </blockquote>
 <h2 id="are-you-using-qwer"><a href="#are-you-using-qwer">😊 Are you using QWER?</a></h2>
 <p>Please consider adding <code class="inline-code-block">svelte-qwer</code> topic to your repository.
@@ -411,7 +411,7 @@ return `<span style="color: goldenrod">Not me.</span>`
 </li>
 </ol>
 <h2 id="learn-more"><a href="#learn-more">📚 Learn More</a></h2>
-<p>Here is our Documentation: <a href="https://qwer.racca.me/docs" rel="external" >https://qwer.racca.me/docs</a>.</p>
+<p>Here is our Documentation: <a href="https://docs-svelte-qwer.vercel.app" rel="external" >https://docs-svelte-qwer.vercel.app</a>.</p>
 <h2 id="end"><a href="#end">👍 END</a></h2>
 ]]></content>
     <category term="QWER" scheme="https://qwer.racca.me/?tags=QWER" />
