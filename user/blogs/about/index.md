@@ -56,7 +56,7 @@ You can install QWER with `npx`:
 npx degit sebaofficial/QWER my-blog
 ```
 
-> Full documentation can be found [here](https://qwer.racca.me/docs).
+> Full documentation can be found [here](https://docs-svelte-qwer.vercel.app).
 
 
 ## 😊 Are you using QWER?

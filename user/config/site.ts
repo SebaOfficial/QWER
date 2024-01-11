@@ -104,7 +104,7 @@ export const navConfig: (DD.Nav | DD.Link)[] = [
   },
   {
     name: 'See Docs 📄',
-    url: 'https://qwer.racca.me/docs',
+    url: 'https://docs-svelte-qwer.vercel.app',
     rel: 'external',
   },
   {
@@ -123,7 +123,7 @@ export const mobilenavConfig: DD.Nav = {
     },
     {
       name: 'See Docs 📄',
-      url: 'https://qwer.racca.me/docs',
+      url: 'https://docs-svelte-qwer.vercel.app',
       rel: 'external',
     },
     {

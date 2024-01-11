@@ -25,7 +25,7 @@ Simply Awesome <b>Blog Starter</b> built in <b>SvelteKit</b>
 </p>
 
 <p align="center">
-   <a href="https://qwer.racca.me/docs">
+   <a href="https://docs-svelte-qwer.vercel.app">
       <img src="https://img.shields.io/badge/📝 Documentation-DOCS-informational?style=for-the-badge" alt="Documentation">
    </a>
    <a href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fqwer.racca.me%2F&form_factor=desktop">
@@ -61,7 +61,7 @@ npx degit sebaofficial/QWER my-blog
    pnpm run create-post my-post
    ```
 
-> Full documentation can be found [here](https://qwer.racca.me/docs).
+> Full documentation can be found [here](https://docs-svelte-qwer.vercel.app).
 
 # ✨ Features
 

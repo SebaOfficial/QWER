@@ -71,6 +71,6 @@ npx degit sebaofficial/QWER my-blog
 
 ## 📚 Learn More
 
-Here is our Documentation: https://qwer.racca.me/docs.
+Here is our Documentation: https://docs-svelte-qwer.vercel.app.
 
 ## 👍 END
