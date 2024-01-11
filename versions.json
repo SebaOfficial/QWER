@@ -45,7 +45,7 @@
   },
   "svelte-QWER": {
     "name": "@sebaofficial/qwer",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Sebastiano Racca",
     "homepage": "https://github.com/SebaOfficial/QWER",
     "deps": {
