@@ -1,18 +1,18 @@
 const a = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), u = [
-  a + "/_app/immutable/entry/app.1c3935ad.js",
-  a + "/_app/immutable/assets/0.751788d8.css",
-  a + "/_app/immutable/nodes/0.c4a11410.js",
-  a + "/_app/immutable/nodes/1.06de451d.js",
+  a + "/_app/immutable/entry/app.2737345a.js",
+  a + "/_app/immutable/assets/0.e886c133.css",
+  a + "/_app/immutable/nodes/0.e82f2538.js",
+  a + "/_app/immutable/nodes/1.4b186251.js",
   a + "/_app/immutable/assets/404.9de340c4.webp",
-  a + "/_app/immutable/assets/2.9c2a354b.css",
-  a + "/_app/immutable/nodes/2.c469842b.js",
-  a + "/_app/immutable/nodes/3.e2a35809.js",
+  a + "/_app/immutable/assets/2.a3ec6066.css",
+  a + "/_app/immutable/nodes/2.720b3049.js",
+  a + "/_app/immutable/nodes/3.5e2d65f6.js",
   a + "/_app/immutable/assets/4.7893dccc.css",
-  a + "/_app/immutable/nodes/4.5fd86824.js",
-  a + "/_app/immutable/nodes/5.fd50250c.js",
-  a + "/_app/immutable/nodes/6.6026ba94.js",
-  a + "/_app/immutable/assets/404.3df25504.avif",
-  a + "/_app/immutable/chunks/code_copy.aa5a19c4.js",
+  a + "/_app/immutable/nodes/4.2f0bd167.js",
+  a + "/_app/immutable/nodes/5.054c249f.js",
+  a + "/_app/immutable/nodes/6.ab2e3104.js",
+  a + "/_app/immutable/assets/404.936a22c6.avif",
+  a + "/_app/immutable/chunks/code_copy.700d884b.js",
   a + "/_app/immutable/assets/code_copy.2fdef224.css",
   a + "/_app/immutable/assets/KaTeX_AMS-Regular.0cdd387c.woff2",
   a + "/_app/immutable/assets/KaTeX_AMS-Regular.30da91e8.woff",
@@ -73,7 +73,7 @@ const a = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), u
   a + "/_app/immutable/assets/KaTeX_Typewriter-Regular.71d517d6.woff2",
   a + "/_app/immutable/assets/KaTeX_Typewriter-Regular.e14fed02.woff",
   a + "/_app/immutable/assets/KaTeX_Typewriter-Regular.f01f3e87.ttf",
-  a + "/_app/immutable/chunks/i18n-svelte.e33966cf.js",
+  a + "/_app/immutable/chunks/i18n-svelte.4da5c13d.js",
   a + "/_app/immutable/assets/avatar.c4879091.png",
   a + "/_app/immutable/assets/avatar.adf64caa.avif",
   a + "/_app/immutable/assets/avatar.d9375b86.webp",
@@ -82,8 +82,8 @@ const a = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), u
   a + "/_app/immutable/assets/avatar.2f35c48e.png",
   a + "/_app/immutable/assets/avatar.cba3f947.png",
   a + "/_app/immutable/assets/qwer.77ae3ceb.webp",
-  a + "/_app/immutable/chunks/image_banner.82304ccd.js",
-  a + "/_app/immutable/assets/404.936a22c6.avif",
+  a + "/_app/immutable/chunks/image_banner.68529fbd.js",
+  a + "/_app/immutable/assets/404.3df25504.avif",
   a + "/_app/immutable/assets/avatar.b3dd10c1.avif",
   a + "/_app/immutable/assets/avatar.df5b6fc2.avif",
   a + "/_app/immutable/assets/default_og_card.a8bc64fd.avif",
@@ -131,11 +131,11 @@ const a = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), u
   a + "/_app/immutable/assets/cover.6b8bdc3f.avif",
   a + "/_app/immutable/chunks/index.5ccb46b4.js",
   a + "/_app/immutable/chunks/scheduler.b261eb3c.js",
-  a + "/_app/immutable/chunks/singletons.98d171e4.js",
-  a + "/_app/immutable/chunks/timeFormat.a297ace1.js",
-  a + "/_app/immutable/chunks/tippy.3fc260ce.js",
+  a + "/_app/immutable/chunks/singletons.8dd526af.js",
+  a + "/_app/immutable/chunks/timeFormat.1d735a3d.js",
+  a + "/_app/immutable/chunks/tippy.5bc0ddcf.js",
   a + "/_app/immutable/assets/tippy.7df0e90e.css",
-  a + "/_app/immutable/entry/start.48c07450.js"
+  a + "/_app/immutable/entry/start.166c0fc2.js"
 ], _ = [
   a + "/example/example2.mp4",
   a + "/favicon.ico",
@@ -163,10 +163,10 @@ const a = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), u
   a + "/quick-start",
   a + "/sitemap.xml",
   a + "/versions.json"
-], l = "1704967365277", p = self, f = `cache${l}`, c = u.concat(_).concat(r), o = new Set(c);
+], l = "1706547588156", p = self, f = `cache${l}`, b = u.concat(_).concat(r), o = new Set(b);
 p.addEventListener("install", (e) => {
   e.waitUntil(
-    caches.open(f).then((s) => s.addAll(c)).then(() => {
+    caches.open(f).then((s) => s.addAll(b)).then(() => {
       p.skipWaiting();
     })
   );
@@ -195,8 +195,8 @@ async function d(e) {
 p.addEventListener("fetch", (e) => {
   if (e.request.method !== "GET" || e.request.headers.has("range"))
     return;
-  const s = new URL(e.request.url), t = s.protocol.startsWith("http"), i = s.hostname === self.location.hostname && s.port !== self.location.port, m = s.host === self.location.host && o.has(s.pathname), b = e.request.cache === "only-if-cached" && !m;
-  t && !i && !b && e.respondWith(
+  const s = new URL(e.request.url), t = s.protocol.startsWith("http"), i = s.hostname === self.location.hostname && s.port !== self.location.port, m = s.host === self.location.host && o.has(s.pathname), c = e.request.cache === "only-if-cached" && !m;
+  t && !i && !c && e.respondWith(
     (async () => m && await caches.match(e.request) || d(e.request))()
   );
 });
