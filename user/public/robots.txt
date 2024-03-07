@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://svelte-qwer.vercel.app/sitemap.xml
+Sitemap: https://qwer.racca.me/sitemap.xml
